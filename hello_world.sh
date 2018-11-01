@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hello, World! The time is $(date)"
+echo "Hello, World! I'm running on $(hostname). The time is $(date)"
